@@ -1,0 +1,11 @@
+#optionsframework-metabox {margin-right: 300px;}
+#optionsframework {float: left;width: 93%;margin-right: 20px;}
+#optionsframework-sidebar {float: left;width: 300px;}
+#optionsframework-sidebar .metabox-holder {padding-top: 0;}
+#optionsframework-sidebar h3 {cursor: default;}
+#optionsframework-sidebar a.button {width: 300px;height: 70px;}
+#optionsframework-sidebar .affiliate {background: url("../images/affiliate.png") no-repeat;}
+#optionsframework-sidebar .facebook {background: url("../images/facebook.png") no-repeat;}
+#optionsframework-sidebar .portfolio {background: url("../images/portfolio.png") no-repeat;}
+#optionsframework-sidebar .support {background: url("../images/support.png") no-repeat;}
+#optionsframework-sidebar a {border: none;}
